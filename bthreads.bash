@@ -1,4 +1,5 @@
 #!/bin/bash
+# ./bthreads.bash subdomains.txt 3 1 'echo ${SUBDOMAIN}'
 
 FILE="${1}"
 THREADS="${2}"
